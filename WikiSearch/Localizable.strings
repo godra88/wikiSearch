@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  WikiSearch
+
+  Created by Ivan Fabri on 2/24/20.
+  Copyright © 2020 Ivan Fabri. All rights reserved.
+*/
+
+
+"placeholderSearchText" = "Type your search";
+"DoneButtonText" = "Done";
+"EnglishTextShort" = "EN";
+"SlovakTextShort" = "SK";
+"CzechTextShort" = "CZ";
+"SearchTitleText" = "Search";
+"SavedTitleText" = "Saved";
+"DeleteCellText" = "Delete";
+"SavedMessageAlert" = "Saved";
+"ErrorSavingMessage" = "Error while saving, try later";
+"ErrorAlertTitle" = "Error";
+"DataNotBeenParseAlertMessage" = "Unable to load data. Please try later";
+
+
+
+
+
+
