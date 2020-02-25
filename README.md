@@ -1,2 +1,2 @@
 # wikiSearch
-Search engine using data from Wikipedia.com
+Search engine using data from Wikipedia
